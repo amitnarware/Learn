@@ -3,8 +3,8 @@
 <head>
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>Document</title>
-      <h1> hello i am amit</h1>
+      <title>learn-github</title>
+      <h1> hello i am amit currently i am learning git hub</h1>
 </head>
 <body>
       
